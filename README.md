@@ -1,4 +1,4 @@
-# Sherlock Terra — Detetive das Tendências do Sistema Terrestre
+# Sherlock Terra: Detetive das Tendências do Sistema Terrestre
 
 **Em busca das tendências terrestres.**
 
